@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<html>
+<body>
+<head>
+<title>Home page</title>
+</head>
+<h2><%= "Home page" %></h2>
+
+
+<!--<jsp:forward page="forward.jsp"></jsp:forward> -->
+
+<%
+	response.getRequestDispatcher("forward.jsp").forward(request, response);
+%>
+
+
+</body>
+</html>
