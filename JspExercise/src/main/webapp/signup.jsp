@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Foward page</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>Forward page</h1>
+<h1>Sign up page</h1>
 </body>
 </html>
