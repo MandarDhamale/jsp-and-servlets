@@ -2,8 +2,11 @@
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:Annotations" serverId="Tomcat v11.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Include Files in JSP"/>
+  <module moduleId="org.eclipse.jst.jee.server:JavaBeans" serverId="Tomcat v11.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:JspExercise" serverId="Tomcat v11.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Reading URL parameters" serverId="Tomcat v11.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:JSP_Forms" serverId="Tomcat v11.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:ImportClassIntoJSPFile" serverId="Tomcat v11.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:ForwardAndRedirect" serverId="Tomcat v11.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Servlet_Forms" serverId="Tomcat v11.0 Server at localhost"/>
 </modules>

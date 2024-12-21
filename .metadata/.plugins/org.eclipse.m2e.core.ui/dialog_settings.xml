@@ -2,6 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/mandar-dhamale/eclipse-workspace/JspExercise"/>
+			<item value="/home/mandar-dhamale/eclipse-workspace/Reading URL parameters"/>
+			<item value="/home/mandar-dhamale/eclipse-workspace/JSP_Forms/pom.xml"/>
+			<item value="/home/mandar-dhamale/eclipse-workspace/Servlet_Forms/src/main/webapp/index.jsp"/>
+			<item value="/home/mandar-dhamale/eclipse-workspace/JSP_Forms"/>
 			<item value="/home/mandar-dhamale/eclipse-workspace/ForwardAndRedirect"/>
 			<item value="/home/mandar-dhamale/eclipse-workspace/ImportClassIntoJSPFile"/>
 		</list>
@@ -27,18 +32,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.mandar.JspExercise"/>
-			<item value="com.mandar.ForwardAndRedirect"/>
-			<item value="ForwardAndRedirect.com.mandar"/>
+			<item value="com.mandar.JavaBeans"/>
 		</list>
 		<list key="groupId">
 			<item value="com.mandar"/>
-			<item value="ForwardAndRedirect"/>
 		</list>
 		<list key="artifactId">
-			<item value="JspExercise"/>
-			<item value="ForwardAndRedirect"/>
-			<item value="com.mandar"/>
+			<item value="JavaBeans"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

@@ -1,8 +1,0 @@
-<html>
-<body>
-<head>
-<title>Home page</title>
-</head>
-<h2><%= "Home page" %></h2>
-</body>
-</html>
