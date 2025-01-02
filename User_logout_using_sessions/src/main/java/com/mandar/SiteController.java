@@ -19,6 +19,23 @@ public class SiteController extends HttpServlet {
     public SiteController() {
         super();
     }
+    
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	
+		String action = request.getParameter("action");
+		
+		switch (action) {
+		case "login":
+			request.getRequestDispatcher("login.jsp").forward(request, response);
+			break;
+
+		default:
+			request.getRequestDispatcher("index.jsp").forward(request, response);
+			break;
+		}
+		
+		
+	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		response.getWriter().append("(Post) Served at: ").append(request.getContextPath());
@@ -34,10 +51,10 @@ public class SiteController extends HttpServlet {
 			newSession.setMaxInactiveInterval(500);
 			newSession.setAttribute("username", username);
 			newSession.setAttribute("password", password);
-			response.sendRedirect("member.jsp");
+			request.getRequestDispatcher("member.jsp").forward(request, response);
 			
 		}else {
-			response.sendRedirect("login.jsp");
+			request.getRequestDispatcher("login.jsp").forward(request, response);
 		}
 		
 		

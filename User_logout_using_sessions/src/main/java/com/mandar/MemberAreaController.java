@@ -23,7 +23,7 @@ public class MemberAreaController extends HttpServlet {
 		switch (action) {
 		case "destroy": 
 			request.getSession().invalidate();
-			response.sendRedirect("login.jsp");
+			request.getRequestDispatcher("login.jsp").forward(request, response);
 			break;
 			
 		default: 
