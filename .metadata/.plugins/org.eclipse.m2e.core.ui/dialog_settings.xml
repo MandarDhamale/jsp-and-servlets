@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/mandar-dhamale/eclipse-workspace/JavaBeans"/>
 			<item value="/home/mandar-dhamale/eclipse-workspace/JspExercise"/>
 			<item value="/home/mandar-dhamale/eclipse-workspace/Reading URL parameters"/>
 			<item value="/home/mandar-dhamale/eclipse-workspace/JSP_Forms/pom.xml"/>
@@ -32,12 +33,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.mandar.JSP_Session_Introduction"/>
+			<item value="com.mandar.JavaBeans_WebForms"/>
 			<item value="com.mandar.JavaBeans"/>
 		</list>
 		<list key="groupId">
 			<item value="com.mandar"/>
 		</list>
 		<list key="artifactId">
+			<item value="JSP_Session_Introduction"/>
+			<item value="JavaBeans_WebForms"/>
 			<item value="JavaBeans"/>
 		</list>
 		<list key="projectNameTemplate">

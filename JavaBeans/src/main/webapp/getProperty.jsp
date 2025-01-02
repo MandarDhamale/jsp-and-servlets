@@ -7,8 +7,10 @@
 <title>get property</title>
 </head>
 <body>
+Get property page
+<br>
 
-<jsp:useBean id="user" class="com.mandar.User" scope="session"></jsp:useBean>
+<jsp:useBean id="user" class="com.mandar.User" scope="request"></jsp:useBean>
 First Name: <jsp:getProperty property="firstName" name="user"/> 
 <br>
 Last Name: <jsp:getProperty property="lastName" name="user"/> 

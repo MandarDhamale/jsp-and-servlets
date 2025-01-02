@@ -136,7 +136,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="/home/mandar-dhamale/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/home/mandar-dhamale/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/Servlet_Forms" path="/Servlet_Forms" reloadable="true" source="org.eclipse.jst.jee.server:Servlet_Forms"/><Context docBase="/home/mandar-dhamale/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/JSP_Forms" path="/JSP_Forms" reloadable="true" source="org.eclipse.jst.j2ee.server:JSP_Forms"/><Context docBase="/home/mandar-dhamale/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/JavaBeans" path="/JavaBeans" reloadable="true" source="org.eclipse.jst.jee.server:JavaBeans"/></Host>
+      <Context docBase="/home/mandar-dhamale/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/home/mandar-dhamale/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/User_logout_using_sessions" path="/User_logout_using_sessions" reloadable="true" source="org.eclipse.jst.jee.server:User_logout_using_sessions"/></Host>
     </Engine>
   </Service>
 </Server>

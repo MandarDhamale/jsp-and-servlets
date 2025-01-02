@@ -7,6 +7,8 @@
   <module moduleId="org.eclipse.jst.jee.server:Reading URL parameters" serverId="Tomcat v11.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.j2ee.server:JSP_Forms" serverId="Tomcat v11.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:ImportClassIntoJSPFile" serverId="Tomcat v11.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSP_Session_Introduction" serverId="Tomcat v11.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:User_logout_using_sessions" serverId="Tomcat v11.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:ForwardAndRedirect" serverId="Tomcat v11.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Servlet_Forms" serverId="Tomcat v11.0 Server at localhost"/>
 </modules>

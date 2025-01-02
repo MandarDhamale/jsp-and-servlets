@@ -75,3 +75,104 @@ Dec 21, 2024 21:24:24.03 Opening in existing browser session.
 Dec 21, 2024 21:24:41.46 Opening in existing browser session.
 Dec 21, 2024 21:28:57.15 Opening in existing browser session.
 Dec 21, 2024 21:29:14.93 Opening in existing browser session.
+
+Dec 22, 2024 09:16:03.23 NEW SESSION
+Dec 22, 2024 09:16:03.24 Opening in existing browser session.
+
+Dec 22, 2024 20:06:09.98 NEW SESSION
+Dec 22, 2024 20:06:09.99 Opening in existing browser session.
+Dec 22, 2024 20:09:17.22 Opening in existing browser session.
+Dec 22, 2024 20:09:31.62 Opening in existing browser session.
+Dec 22, 2024 20:17:00.50 Opening in existing browser session.
+Dec 22, 2024 20:22:48.19 Opening in existing browser session.
+
+Dec 22, 2024 20:52:24.14 NEW SESSION
+Dec 22, 2024 20:52:24.15 Opening in existing browser session.
+Dec 22, 2024 21:18:47.57 Opening in existing browser session.
+Dec 22, 2024 21:28:47.14 Opening in existing browser session.
+
+Dec 24, 2024 23:13:18.35 NEW SESSION
+Dec 24, 2024 23:13:18.36 Opening in existing browser session.
+Dec 24, 2024 23:14:54.72 Opening in existing browser session.
+
+Dec 25, 2024 10:13:13.47 NEW SESSION
+Dec 25, 2024 10:13:13.49 Opening in existing browser session.
+Dec 25, 2024 10:14:24.60 Opening in existing browser session.
+Dec 25, 2024 10:36:26.31 Opening in existing browser session.
+Dec 25, 2024 10:45:12.05 Opening in existing browser session.
+Dec 25, 2024 10:51:04.94 Opening in existing browser session.
+Dec 25, 2024 10:57:48.24 Opening in existing browser session.
+Dec 25, 2024 10:59:08.30 Opening in existing browser session.
+Dec 25, 2024 11:17:33.03 Opening in existing browser session.
+Dec 25, 2024 11:18:43.48 Opening in existing browser session.
+Dec 25, 2024 11:21:19.71 Opening in existing browser session.
+Dec 25, 2024 11:27:40.04 Opening in existing browser session.
+Dec 25, 2024 11:35:22.80 Opening in existing browser session.
+Dec 25, 2024 11:35:54.46 Opening in existing browser session.
+Dec 25, 2024 11:41:28.09 Opening in existing browser session.
+Dec 25, 2024 11:45:16.86 Opening in existing browser session.
+
+Dec 25, 2024 12:34:45.52 NEW SESSION
+Dec 25, 2024 12:34:45.53 Opening in existing browser session.
+
+Dec 25, 2024 12:38:05.28 NEW SESSION
+Dec 25, 2024 12:38:05.30 Opening in existing browser session.
+Dec 25, 2024 12:59:57.00 Opening in existing browser session.
+Dec 25, 2024 13:03:28.88 Opening in existing browser session.
+Dec 25, 2024 13:06:37.21 Opening in existing browser session.
+
+Dec 25, 2024 15:08:58.19 NEW SESSION
+Dec 25, 2024 15:08:58.21 [52924:52924:1225/150858.193542:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not part of the idle inhibition specification: https://specifications.freedesktop.org/idle-inhibit-spec/latest/
+Dec 25, 2024 15:09:02.04 [52924:52955:1225/150902.046056:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 25, 2024 15:09:02.05 [52924:52955:1225/150902.059486:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 25, 2024 15:09:02.14 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 25, 2024 15:09:02.15 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Dec 25, 2024 15:09:02.60 [52980:52980:1225/150902.605641:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+Dec 25, 2024 15:09:10.39 [52980:52980:1225/150910.390896:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+Dec 25, 2024 15:09:20.61 [52980:52980:1225/150920.618690:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+Dec 25, 2024 15:09:23.93 [52924:52955:1225/150923.937299:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 25, 2024 15:09:25.08 [52924:52955:1225/150925.086755:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 25, 2024 15:10:11.16 [52924:52955:1225/151011.164003:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 25, 2024 15:10:11.34 Fontconfig error: Cannot load default config file: No such file: (null)
+Dec 25, 2024 15:10:18.93 [52924:52955:1225/151018.938539:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 25, 2024 15:11:00.09 Warning: Old MapAsync APIs are deprecated. If using C please pass a CallbackInfo struct that has two userdatas. Otherwise, if using C++, please use templated helpers.
+Dec 25, 2024 15:11:53.48 [52981:52987:1225/151153.483688:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 25, 2024 15:12:13.76 [52924:52955:1225/151213.762680:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 25, 2024 15:12:13.99 [52981:52987:1225/151213.997715:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 25, 2024 15:15:28.15 [62377:27:1225/151528.158941:ERROR:ffmpeg_common.cc(970)] Unsupported pixel format: -1
+Dec 25, 2024 15:16:15.03 [52924:52955:1225/151615.038490:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Jan 01, 2025 10:04:57.46 NEW SESSION
+Jan 01, 2025 10:04:57.47 Opening in existing browser session.
+Jan 01, 2025 10:05:09.22 Opening in existing browser session.
+Jan 01, 2025 10:12:56.82 Opening in existing browser session.
+Jan 01, 2025 10:13:47.69 Opening in existing browser session.
+Jan 01, 2025 10:26:58.87 Opening in existing browser session.
+Jan 01, 2025 10:29:31.42 Opening in existing browser session.
+Jan 01, 2025 10:31:11.10 Opening in existing browser session.
+Jan 01, 2025 10:33:58.05 Opening in existing browser session.
+Jan 01, 2025 10:34:53.59 Opening in existing browser session.
+Jan 01, 2025 10:36:34.30 Opening in existing browser session.
+Jan 01, 2025 10:37:48.17 Opening in existing browser session.
+Jan 01, 2025 10:40:57.51 Opening in existing browser session.
+Jan 01, 2025 10:43:28.27 Opening in existing browser session.
+Jan 01, 2025 10:43:36.00 Opening in existing browser session.
+Jan 01, 2025 10:44:11.50 Opening in existing browser session.
+
+Jan 02, 2025 11:06:15.77 NEW SESSION
+Jan 02, 2025 11:06:15.77 Opening in existing browser session.
+Jan 02, 2025 11:13:10.73 Opening in existing browser session.
+Jan 02, 2025 11:15:19.74 Opening in existing browser session.
+Jan 02, 2025 11:15:32.66 Opening in existing browser session.
+Jan 02, 2025 11:15:43.01 Opening in existing browser session.
+Jan 02, 2025 11:18:50.40 Opening in existing browser session.
+Jan 02, 2025 11:19:15.55 Opening in existing browser session.
+Jan 02, 2025 11:19:41.25 Opening in existing browser session.
+Jan 02, 2025 11:21:53.03 Opening in existing browser session.
+Jan 02, 2025 11:25:39.45 Opening in existing browser session.
+Jan 02, 2025 11:58:59.99 Opening in existing browser session.
+Jan 02, 2025 12:03:58.65 Opening in existing browser session.
+Jan 02, 2025 12:05:27.02 Opening in existing browser session.
+
+Jan 02, 2025 16:12:23.31 NEW SESSION
+Jan 02, 2025 16:12:23.32 Opening in existing browser session.

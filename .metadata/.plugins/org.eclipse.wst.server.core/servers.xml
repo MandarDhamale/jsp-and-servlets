@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v11.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v11.0 Server at localhost" name="Tomcat v11.0 Server at localhost" runtime-id="Apache Tomcat v11.0" server-type="org.eclipse.jst.server.tomcat.110" server-type-id="org.eclipse.jst.server.tomcat.110" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="3">
-    <list key="modules" value0="Servlet_Forms::org.eclipse.jst.jee.server:Servlet_Forms::jst.web::4.0" value1="JSP_Forms::org.eclipse.jst.j2ee.server:JSP_Forms::jst.web::2.3" value2="JavaBeans::org.eclipse.jst.jee.server:JavaBeans::jst.web::4.0"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v11.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v11.0 Server at localhost" name="Tomcat v11.0 Server at localhost" runtime-id="Apache Tomcat v11.0" server-type="org.eclipse.jst.server.tomcat.110" server-type-id="org.eclipse.jst.server.tomcat.110" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="User_logout_using_sessions::org.eclipse.jst.jee.server:User_logout_using_sessions::jst.web::4.0"/>
   </server>
 </servers>
