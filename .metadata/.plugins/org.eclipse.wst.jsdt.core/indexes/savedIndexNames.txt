@@ -1,21 +1,14 @@
 INDEX VERSION 1.4+/home/mandar-dhamale/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
 3910721004.index
 1109508967.index
-4233802805.index
-1936152289.index
 2429003382.index
 782023224.index
 3727131947.index
 2131770052.index
-611769126.index
 329116633.index
-844995435.index
 3036194008.index
 523028407.index
-3256159847.index
 818247040.index
-788151649.index
 487535600.index
 1228430458.index
-844995435.index
 4207171296.index
