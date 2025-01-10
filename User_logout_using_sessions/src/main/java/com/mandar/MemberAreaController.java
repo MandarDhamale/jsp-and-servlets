@@ -22,8 +22,11 @@ public class MemberAreaController extends HttpServlet {
 		switch (action) {
 		case "destroy": 
 			request.getSession().invalidate();
-			request.getRequestDispatcher("login.jsp").forward(request, response);
+			response.sendRedirect(request.getContextPath() + "/SiteController?action=login");
 			break;
+		
+		case "memberArea":
+			request.getRequestDispatcher("member.jsp").forward(request, response);
 			
 		default: 
 			throw new IllegalArgumentException();

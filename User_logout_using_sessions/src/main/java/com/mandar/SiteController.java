@@ -49,10 +49,10 @@ public class SiteController extends HttpServlet {
 			newSession.setMaxInactiveInterval(500);
 			newSession.setAttribute("username", username);
 			newSession.setAttribute("password", password);
-			request.getRequestDispatcher("member.jsp").forward(request, response);
+			response.sendRedirect(request.getContextPath() + "/MemberAreaController?action=memberArea");
 			
 		}else {
-			request.getRequestDispatcher("login.jsp").forward(request, response);
+			response.sendRedirect(request.getContextPath() + "/SiteController?action=login");
 		}
 		
 		
