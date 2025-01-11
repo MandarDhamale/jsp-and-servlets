@@ -1,24 +1,26 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>login</title>
-</head>
-<body>
+<jsp:include page="include/header.jsp">
+<jsp:param value="Login Page" name="titlePage"/>
+</jsp:include>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 	<form action="<%=request.getContextPath()%>/SiteController" method="post">
-
-		username: <input type="text" name="username" required="required"><br>
-		password: <input type="password" name="password" required="required"><br> 
-		<input type="hidden" name="action" value="authenticate">
-		<input type="submit" value="login">
-
+		<div class="form-group">
+			username: <input type="text" name="username" required="required"><br>
+			password: <input type="password" name="password" required="required"><br> 
+			<input type="hidden" name="action" value="authenticate">
+			<button class="btn btn-success" type="submit" value="login">Login</button>
+		</div>
 	</form>
 	
 	<br> 
 	<%= request.getSession().getAttribute("username") %>
 	
-</body>
-</html>
+<jsp:include page="include/footer.jsp"></jsp:include>
+	
