@@ -3055,3 +3055,63 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected > 
 2025-01-11 18:16:19,300 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-workspace/User_logout_using_sessions/src/test/resources
 2025-01-11 18:16:31,120 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-workspace/User_logout_using_sessions/src/main/resources
 2025-01-11 18:16:31,121 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-workspace/User_logout_using_sessions/src/test/resources
+2025-01-11 18:28:28,373 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-11 18:28:33,239 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ForwardAndRedirect: com.mandar:ForwardAndRedirect:0.0.1-SNAPSHOT with classifier  to /ForwardAndRedirect/target/classes
+2025-01-11 18:35:43,682 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-11 18:35:47,017 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/ForwardAndRedirect/src/main/resources
+2025-01-11 18:35:47,027 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/ForwardAndRedirect/src/test/resources
+2025-01-11 18:35:48,011 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-01-11 18:35:48,017 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2025-01-11 18:35:48,122 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-11 18:35:48,124 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-01-11 18:35:48,128 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-11 18:35:48,130 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2025-01-11 18:35:48,400 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/JSP_Session_Introduction/src/main/resources
+2025-01-11 18:35:48,405 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/JSP_Session_Introduction/src/test/resources
+2025-01-11 18:35:48,956 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/JavaBeans/src/main/resources
+2025-01-11 18:35:48,962 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/JavaBeans/src/test/resources
+2025-01-11 18:35:49,271 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/JavaBeans_WebForms/src/main/resources
+2025-01-11 18:35:49,278 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/JavaBeans_WebForms/src/test/resources
+2025-01-11 18:35:49,612 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ForwardAndRedirect: com.mandar:ForwardAndRedirect:0.0.1-SNAPSHOT with classifier  to /ForwardAndRedirect/target/classes
+2025-01-11 18:35:49,728 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/Servlet_Forms/src/main/resources
+2025-01-11 18:35:49,733 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/Servlet_Forms/src/test/resources
+2025-01-11 18:35:49,965 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/User_logout_using_sessions/src/main/resources
+2025-01-11 18:35:49,968 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/eclipse-workspace/User_logout_using_sessions/src/test/resources
+2025-01-11 18:36:45,088 [ModalContext] ERROR o.e.m.c.i.p.r.ProjectRegistryReader - Can't write workspace state
+java.io.FileNotFoundException: /home/mandar-dhamale/eclipse-projects/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser (No such file or directory)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:289)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:230)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:179)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryReader.createObjectOutputStream(ProjectRegistryReader.java:127)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryReader.writeWorkspaceState(ProjectRegistryReader.java:116)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.writeWorkspaceState(ProjectRegistryManager.java:1047)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.saving(ProjectRegistryManager.java:1198)
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:453)
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:269)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:272)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1226)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2492)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$1(IDEWorkbenchAdvisor.java:553)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+2025-01-11 18:37:59,193 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-11 18:38:02,949 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/ForwardAndRedirect/src/main/resources
+2025-01-11 18:38:02,962 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/ForwardAndRedirect/src/test/resources
+2025-01-11 18:38:04,051 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-01-11 18:38:04,058 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2025-01-11 18:38:04,373 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-11 18:38:04,374 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-01-11 18:38:04,379 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-11 18:38:04,381 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2025-01-11 18:38:04,735 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/JSP_Session_Introduction/src/main/resources
+2025-01-11 18:38:04,741 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/JSP_Session_Introduction/src/test/resources
+2025-01-11 18:38:06,049 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/JavaBeans/src/main/resources
+2025-01-11 18:38:06,054 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/JavaBeans/src/test/resources
+2025-01-11 18:38:06,344 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/JavaBeans_WebForms/src/main/resources
+2025-01-11 18:38:06,352 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/JavaBeans_WebForms/src/test/resources
+2025-01-11 18:38:07,246 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ForwardAndRedirect: com.mandar:ForwardAndRedirect:0.0.1-SNAPSHOT with classifier  to /ForwardAndRedirect/target/classes
+2025-01-11 18:38:07,412 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/Servlet_Forms/src/main/resources
+2025-01-11 18:38:07,420 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/Servlet_Forms/src/test/resources
+2025-01-11 18:38:10,152 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/User_logout_using_sessions/src/main/resources
+2025-01-11 18:38:10,163 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/mandar-dhamale/eclipse-projects/java-servlets-jsp/User_logout_using_sessions/src/test/resources
