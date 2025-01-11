@@ -36,6 +36,25 @@ public class SiteController extends HttpServlet {
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		String action = request.getParameter("action");
+		
+		switch (action) {
+		case "authenticate":
+			authenticate(request, response);
+			break;
+
+		default:
+			request.getRequestDispatcher("index.jsp").forward(request, response);
+			break;
+		}
+		
+		
+		
+	}
+	
+	protected void authenticate(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	
 		response.getWriter().append("(Post) Served at: ").append(request.getContextPath());
 
 		String username = request.getParameter("username");
@@ -56,7 +75,7 @@ public class SiteController extends HttpServlet {
 		}
 		
 		
-		
 	}
+	
 
 }

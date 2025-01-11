@@ -12,6 +12,7 @@
 
 		username: <input type="text" name="username" required="required"><br>
 		password: <input type="password" name="password" required="required"><br> 
+		<input type="hidden" name="action" value="authenticate">
 		<input type="submit" value="login">
 
 	</form>
